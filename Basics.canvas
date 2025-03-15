@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9436316177c7f545","type":"group","x":720,"y":-417,"width":360,"height":345,"color":"1","label":"Basic mechanics"},
+		{"id":"5b250c931600cf5a","type":"group","x":300,"y":-370,"width":380,"height":250,"color":"1","label":"Create folders"},
+		{"id":"740396d94e0f75d1","type":"text","text":"- Scripts","x":320,"y":-340,"width":147,"height":50},
+		{"id":"49dbf2f70adfbfe4","type":"text","text":"- Assets","x":500,"y":-340,"width":158,"height":50},
+		{"id":"aacff808eef04cab","type":"text","text":"Sounds","x":320,"y":-190,"width":147,"height":50},
+		{"id":"7344c49269ac88c4","type":"text","text":"Sprites","x":500,"y":-190,"width":158,"height":50},
+		{"id":"86907dc4995e8fce","type":"text","text":"Start unity project\n","x":-20,"y":-375,"width":230,"height":60,"color":"1"},
+		{"id":"0c7440cd321606c3","type":"text","text":"Sprite with collider and physics","x":742,"y":-312,"width":316,"height":50,"color":"1"},
+		{"id":"dbc9796255244ab2","type":"text","text":"Base with collider","x":798,"y":-397,"width":205,"height":50,"color":"1"},
+		{"id":"6c11d7c5e2e53bbc","type":"text","text":"Script with movements","x":775,"y":-226,"width":251,"height":50,"color":"1"},
+		{"id":"584d8cf15938b928","x":828,"y":-141,"width":144,"height":50,"color":"1","type":"text","text":"Add jump"}
+	],
+	"edges":[
+		{"id":"01645c35eff16591","fromNode":"86907dc4995e8fce","fromSide":"right","toNode":"5b250c931600cf5a","toSide":"left"},
+		{"id":"aa16331b9d46b664","fromNode":"49dbf2f70adfbfe4","fromSide":"bottom","toNode":"aacff808eef04cab","toSide":"top"},
+		{"id":"e87dd0b07699f1a9","fromNode":"49dbf2f70adfbfe4","fromSide":"bottom","toNode":"7344c49269ac88c4","toSide":"top"},
+		{"id":"969912f4bca60051","fromNode":"5b250c931600cf5a","fromSide":"right","toNode":"9436316177c7f545","toSide":"left"},
+		{"id":"1c5f4940f2600db1","fromNode":"dbc9796255244ab2","fromSide":"bottom","toNode":"0c7440cd321606c3","toSide":"top"},
+		{"id":"f0749cb74a743eef","fromNode":"0c7440cd321606c3","fromSide":"bottom","toNode":"6c11d7c5e2e53bbc","toSide":"top"},
+		{"id":"72e7b0a80b6b50b2","fromNode":"6c11d7c5e2e53bbc","fromSide":"bottom","toNode":"584d8cf15938b928","toSide":"top"}
+	]
+}
