@@ -10,7 +10,8 @@
 		{"id":"0c7440cd321606c3","type":"text","text":"Sprite with collider and physics","x":742,"y":-312,"width":316,"height":50,"color":"1"},
 		{"id":"dbc9796255244ab2","type":"text","text":"Base with collider","x":798,"y":-397,"width":205,"height":50,"color":"1"},
 		{"id":"6c11d7c5e2e53bbc","type":"text","text":"Script with movements","x":775,"y":-226,"width":251,"height":50,"color":"1"},
-		{"id":"584d8cf15938b928","type":"text","text":"Add jump","x":828,"y":-141,"width":144,"height":50,"color":"1"}
+		{"id":"584d8cf15938b928","type":"text","text":"Add jump","x":828,"y":-141,"width":144,"height":50,"color":"1"},
+		{"id":"f7955c0311116eb8","x":242,"y":-43,"width":250,"height":60,"type":"text","text":"asddadsa"}
 	],
 	"edges":[
 		{"id":"01645c35eff16591","fromNode":"86907dc4995e8fce","fromSide":"right","toNode":"5b250c931600cf5a","toSide":"left"},
